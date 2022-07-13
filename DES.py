@@ -290,4 +290,4 @@ rk_rev = rk[::-1]
 text = bin2hex(encrypt(cipher_text, rkb_rev, rk_rev))
 print("Plain Text : ",text)
 
-# This code is contributed by Aditya Jain
+
